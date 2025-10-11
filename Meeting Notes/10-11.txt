@@ -1,0 +1,103 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+- Bert Beckmann
+- Gauri Karkhile
+
+Front-End Development and Integration
+The team made significant progress on the mobile app front end, led by Gauri Karkhile, who quickly learned Flutter and developed a functional prototype with user and agent interfaces (01:05).
+
+Gauri built the app front end and backend authentication module using Golang and Postgres, despite starting Flutter knowledge from zero (01:05)
+
+She used Copilot with Sonnet 4.5 model to speed up development and created responsive code adaptable to web and mobile.
+The front end currently shows separate dashboards for users and agents, with static content placeholders for AI chatbot and profiles.
+Backend integration is incomplete due to some authentication connection issues, which she is actively troubleshooting.
+This early prototype lets the team evaluate the app’s structure and user flows, setting a foundation for further enhancements.
+CU Boulder team assigned Charlotte Hauke and Calvin Schaller to collaborate with Gauri on mobile and web development respectively (07:31)
+
+They will organize a meeting this week to review Gauri’s codebase and discuss integration strategies.
+Bert Beckmann emphasized improving product specifications based on this working prototype to guide future development.
+The team plans to research database design and AI integration requirements in parallel to align front-end and backend efforts.
+This collaboration aims to accelerate the delivery of a polished app that clearly serves both real estate agents and buyers.
+Backend Architecture and Data Strategy
+The backend will rely on Golang for server-side logic and Postgres for user and property data storage, hosted on a Digital Ocean server (13:48).
+
+The backend team is tasked with designing a database schema to support two user classes: real estate agents and buyers (08:50)
+
+Agents will primarily be customers of the SaaS, while buyers are their clients, requiring differentiated data handling.
+The schema must accommodate property details, user profiles, and a repository of Boulder-specific real estate knowledge to support AI features.
+Early backend work includes authentication module development and setting up data storage for agent listings and buyer interactions.
+The team will research database design and backend tools this week to align system capabilities with front-end needs.
+There is a strategic decision to minimize manual property entry by agents by integrating with MLS databases or scraping real estate websites (09:53)
+
+MLS access requires establishing partnerships with realtors to enable database queries for property data.
+The system will pull comprehensive property info from MLS and realtor.com URLs to keep data accurate and up to date.
+Agents will only need to enter unique property details unavailable from public sources, reducing their workload.
+This approach aims to improve data quality, speed up content population, and enhance user experience for both agents and buyers.
+AI Integration and User Experience
+The team is exploring advanced AI features, including an animated AI assistant named Betty Boulder, to create a knowledgeable and engaging experience for real estate buyers (09:53).
+
+Bert Beckmann highlighted the need to research HeyGen and alternative AI animation tools for Betty Boulder’s avatar and voice (09:53)
+
+HeyGen offers high-quality animation but is expensive; the team wants to explore custom solutions that replicate its capabilities cost-effectively.
+Everyone on the CU Boulder team is encouraged to research and provide feedback on Betty’s design, voice, and interaction style to refine the user experience.
+The current Betty demo is a 15-second animated video shared in the project channel for team review and input.
+The AI chatbot will eventually be integrated into the user dashboard to assist buyers with Boulder real estate knowledge.
+The AI model integration will leverage the backend infrastructure and the rich Boulder real estate data being collected (02:23)
+
+The chatbot interface currently exists as a placeholder in the app’s user view, showing where the AI will interact with users.
+The team aims to build an AI assistant that is both informative and entertaining, enhancing buyer engagement and satisfaction.
+Research into large language models (LLMs) will help determine the best AI model suited for local real estate knowledge and conversational capabilities.
+This AI focus aligns with the product’s differentiation strategy by combining real estate data with personalized, smart assistance.
+Team Coordination and Workflow Management
+The team is establishing communication and coordination routines to maintain steady progress and transparency (15:11).
+
+A dedicated stand-up channel will be created for members to post progress updates, blockers, and help requests every few days (15:11)
+
+This approach aims to keep everyone aligned and allow early identification of issues or resource needs.
+Saturday meetings at the agreed time will continue weekly to review progress and set next steps.
+Bert Beckmann encourages a culture of open sharing and quick feedback to foster collaboration.
+This communication rhythm supports distributed team members across time zones and disciplines.
+Roles have been clearly assigned: all members will contribute to backend work, with Charlotte and Calvin leading mobile and web front-end efforts respectively (07:31)
+
+This role clarity helps focus expertise where it is most impactful and ensures coverage of key technical areas.
+Bert Beckmann will facilitate cross-team connections, including setting up joint meetings to review code and design decisions.
+The team’s early delegation of responsibilities sets the stage for efficient parallel development and faster delivery.
+This structure also supports onboarding new members like Gauri and integrates their work smoothly.
+Product Vision and Market Positioning
+The project is positioned as a SaaS platform serving real estate agents with buyers as end users, emphasizing ease of use and rich local knowledge (08:50).
+
+Bert Beckmann clarified the dual-user model: agents are customers paying for the service, while buyers are their clients engaging with AI tools (08:50)
+
+This model influences design decisions to ensure agents find value in managing listings efficiently.
+Buyers receive a tailored AI experience that helps them navigate Boulder’s real estate market with expert-level information.
+The integration with MLS and realtor.com supports market competitiveness by offering up-to-date and comprehensive property data.
+The vision is to transform real estate search with AI-driven insights and a streamlined agent interface.
+The team is focused on building a differentiated product that combines AI, data integration, and user-friendly design to disrupt traditional real estate tools (09:53)
+
+Including animated AI avatars and conversational assistants aims to create a unique and engaging user experience.
+Reducing manual data entry for agents enhances product appeal and adoption potential.
+The platform’s local focus on Boulder real estate knowledge builds a competitive moat through specialization.
+This strategic approach guides technology choices and prioritizes features that bring clear business value.
+
+Action items
+Gauri Karkhile
+Share Flutter front-end code and demo with CU Boulder team for review and collaboration (07:50)
+Continue troubleshooting the backend and frontend integration of authentication module (04:42)
+Calvin Schaller
+Coordinate with Charlotte Hauke and Gauri to work on mobile and web front end integration (07:31)
+Lead web development efforts and assist in AI research efforts with full team (07:44)
+Charlotte Hauke
+Lead mobile development alongside Calvin and collaborate with Gauri on the Flutter app (07:44)
+Bert Beckmann
+Post HeyGen demo video in Betty Boulder channel and collect feedback on avatar/voice (12:21)
+Create and oversee stand-up communication channel for progress tracking (15:11)
+Backend Team (including Manav Shah)
+Research and propose backend database schema for user profiles and property data (13:48)
+Investigate MLS data access and identify required realtor partnerships for integration (15:58)
+All CU Boulder Team Members
+Engage collectively in researching AI tools and avatar creation solutions (12:11)

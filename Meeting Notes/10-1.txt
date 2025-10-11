@@ -1,0 +1,13 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+- Bert Beckmann
+
+Discussed Project Charter with Sponsor and updated based on feedback given.
+Steps for upcoming week:
+    - Complete Project Charter
+    - Decide on roles (backend/web/mobile/documentation & marketing)

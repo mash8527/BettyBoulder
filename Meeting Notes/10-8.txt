@@ -1,0 +1,10 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+
+Sponsor was unable to attend.
+Main purpose of this meeting was to set up GitHub repository.

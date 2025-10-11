@@ -1,0 +1,11 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+- Bert Beckmann
+
+Each team member briefly described their relevant past experience.
+Sponsor expanded on project details.
