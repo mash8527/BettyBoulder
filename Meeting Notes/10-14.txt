@@ -1,0 +1,13 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+- Christopher Ebuka Ojukwu
+
+TA Meeting
+- Discussed what has been discussed with the Sponsor so far
+- Clarifications on what needs to be in the repository
+- Todo for next TA meeting: Create a document outlining our understanding of the project and the minimum viable product
