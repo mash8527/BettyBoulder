@@ -1,0 +1,110 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
+- Bert Beckmann
+- Gauri Karkhile
+
+Agile Adoption: Team starts using Scrum and Agile methodologies for better collaboration and transparency immediately.
+
+Bi-weekly Check-ins: Progress reports every Tuesday and Friday; full team review every Saturday to manage issues effectively.
+
+Jira Utilization: Team uses Jira for task management; story points assigned from 1 to 13 for productivity measurement.
+
+Technical Setup: Members need to install Flutter, Android Studio, Postgres, and Golang locally to facilitate project work.
+
+Leadership Rotation: Roles will rotate among members to build ownership and skills; everyone encouraged to aspire to Scrum Master duties.
+
+Transparency Focus: Regular updates and clear task ownership are priorities to ensure progress and maintain alignment on project goals.
+
+Action items
+Bert Beckmann
+Provide GitHub repository access to all team members upon receiving their GitHub IDs (24:41)
+Encourage team members to create Jira tickets for tasks they want to work on (30:24)
+Gauri Karkhile
+Research and implement Jira project, create tasks and assign to team for tracking progress (23:33)
+Share GitHub repository access with team members after collecting GitHub IDs; provide assistance on Flutter setup and usage (24:43)
+Collect tech stack preferences from team and distribute work assignments accordingly (26:48)
+Encourage and monitor team posting of progress updates in standup channel every Tuesday and Friday (35:30)
+Lead next weekly Scrum meeting as Scrum Master, facilitate progress discussions and reporting (18:31)
+Manav Shah
+Volunteer to work on AI aspects of the app and communicate preferences to Gauri (26:45)
+Notes
+Agile and Scrum Process Implementation
+The team committed to adopting Scrum and Agile methodologies to improve collaboration and project transparency starting immediately (00:36).
+
+Bert Beckmann emphasized the need for bi-weekly progress reports every Tuesday and Friday and a full team review meeting every Saturday to track progress and troubleshoot issues (04:54).
+
+This cadence balances visibility without overwhelming the team with daily meetings, fostering professional habits.
+The Scrum Master role will initially be assigned but rotate among members to promote shared responsibility and leadership.
+Bert highlighted that true Scrum succeeds when the team acts as equals, valuing expertise but encouraging open, honest communication.
+Avoiding the trap of a single Scrum Master dominating decisions is critical to maintain agility and team morale.
+The team will use Jira as the project management tool, despite its complexity, because it is the industry standard and will provide useful experience (00:40).
+
+Jira tasks will be assigned story points ranging from 1 to 13, estimating effort from hours to two weeks.
+Progress tracking through story points will enable the team to measure productivity and refine estimates over time.
+The standard development cycle will include developer task completion followed by QA review, with iterative fixes to ensure quality.
+Everyone is encouraged to create Jira tickets for work ideas or needs, fostering democratic task management and transparency.
+Clear team expectations were set by Gauri Karkhile as the appointed Project Manager, who will oversee Jira setup, task assignments, and progress monitoring (23:33).
+
+She will facilitate weekly ticket creation and provide access to the shared GitHub repository, promoting documentation and code transparency.
+Team members are required to post concise status updates twice weekly in the standup channel to maintain visibility and support.
+Technical Onboarding and Tooling
+The team is currently onboarding to the Flutter framework and related backend technologies to establish a shared technical foundation (23:33).
+
+Each member must install and configure Flutter, Android Studio, Postgres, and Golang locally to run the project code pushed to GitHub by Gauri (24:43).
+
+Gauri has prepared detailed documentation in the project’s README to assist with setup and understanding.
+She offered direct support for any setup issues to minimize blockers and accelerate ramp-up.
+The team collectively spent the past week familiarizing themselves with Flutter basics and tools, with some exposure to auxiliary AI tools like Cluso for presentation generation, though relevance is unclear (27:48).
+The next step is to assign specific work areas based on members’ interests and tech stacks, especially focusing on AI components of the app (26:45).
+Bert encouraged experimentation with GitHub Copilot using LLM model version 4.5 to accelerate development and code generation (32:36).
+
+Gauri demonstrated rapid progress by generating much of the backend Flutter code using Copilot within a few days.
+The premium Copilot subscription is free for college students, and Gauri will assist team members in accessing and using it effectively.
+This approach is expected to improve efficiency and reduce coding time, allowing the team to focus on higher-value tasks.
+Project Management and Workflow Transparency
+The team will implement a systematic workflow using Jira to track individual contributions and overall project status (23:33).
+
+Gauri will create the Jira project and assign initial tickets to all team members to ensure clear ownership and workload distribution (23:33).
+
+This system aims to make progress transparent and measurable against weekly milestones.
+Each member will be responsible for updating the status of their tickets and posting bi-weekly standup updates to synchronize efforts.
+The QA process will verify task completion, ensuring that code matches requirements and is bug-free before marking tasks done.
+Bert reinforced that the team can self-initiate Jira tickets for new tasks or improvements, promoting proactive engagement (30:24).
+
+This democratic approach encourages ownership and innovation within the scope of project goals.
+Tickets will be reviewed regularly to prioritize and assign work in alignment with project timelines.
+The goal is to evolve from a group of individuals to a high-performance, self-organizing Scrum team by end-of-year, with clear communication, shared leadership, and accountability (12:00).
+
+Bert emphasized the importance of honest self-assessment and respect for expertise to avoid wasted effort and misdirected tasks.
+This cultural shift will enhance collaboration and speed up delivery while maintaining quality.
+Roles, Responsibilities, and Leadership Development
+The team defined initial roles and encouraged rotation to build collective ownership and leadership skills (09:40).
+
+Gauri Karkhile will act as Project Manager managing Jira, code access, and overall project coordination (23:33).
+
+She will facilitate meetings, assign tasks, and help team members with technical and process issues.
+The Scrum Master role, currently open, will lead weekly Scrum meetings, summarize progress, and communicate with Gauri to align priorities.
+Bert stressed that the Scrum Master is a facilitator, not a leader with authority, and this role should rotate so everyone gains experience (07:13).
+This approach helps prevent bottlenecks and promotes collective responsibility for project success.
+Team members are encouraged to aspire to Scrum Master responsibilities to understand the challenges of coordination and drive the project forward (09:40).
+
+Leadership is tied to technical knowledge and insight, so members should build expertise to contribute meaningfully.
+Open communication and respect for well-researched ideas will foster a more agile and responsive team culture.
+Timelines and Milestones
+The team established an initial timeline centered on weekly check-ins and incremental progress tracking (04:54).
+
+Progress updates will be posted every Tuesday and Friday, with a comprehensive team review every Saturday to assess accomplishments and blockers.
+
+This schedule allows timely intervention on issues without disrupting deep work.
+Jira story points will be used to measure workload and velocity, facilitating better sprint planning over time.
+The goal is to demonstrate steady progress and maintain momentum towards project completion.
+Gauri plans to have the Jira project fully set up with tickets assigned to all members by next week, enabling systematic tracking from that point forward (23:33).
+
+This will mark the start of more formal Agile processes and clearer accountability.
+The team’s initial focus is on mastering the technical stack and setting up the development environment to enable productive work in subsequent weeks.
+Emphasizing transparency and communication early aims to catch issues before they slow progress and keep the team aligned on priorities and goals.
