@@ -1,0 +1,94 @@
+Attendance:
+- Manav Shah
+- Sharon Xiang
+- Sansh Goel
+- Gauri Karkhile
+
+Team Onboarding Progress: Team is setting up tools; Sansh will clone the repo today to start coding tasks.
+Backend Development Roadmap: Manav reviews user models and plans appointment model next week to enhance project features.
+JIRA Workflow Implementation: A structured JIRA process was established for task visibility; weekly reviews ensure alignment and manage workloads.
+User Verification Method: OTP verification via phone number chosen for its simplicity, enhancing user experience and onboarding.
+System Architecture Overview: BT Boulder combines Flutter frontend and Golang backend, with a phased approach to core user-agent interactions.
+Effective Communication Practices: Frequent Slack updates and weekly meetings foster real-time collaboration and maintain project transparency.
+
+Action items
+Sansh Goel
+Clone the git repository and complete local environment setup (04:17)
+Manav Shah
+Create an appointment model for the backend as next development task (04:38)
+Sharon Xiang
+Review and assign tasks on JIRA as familiarization with project continues (09:55)
+Gauri Karkhile
+Create major tickets in JIRA and manage task assignment and workflow (06:35)
+Monitor JIRA board regularly and facilitate weekly progress reviews in meetings (07:50)
+Provide assistance and answer technical queries via Slack (10:30)
+
+Notes
+Project Progress and Onboarding
+The team has begun initial setup and familiarization with the project tools and codebase to prepare for active development.
+
+Sansh Goel completed learning JIRA and gained access to Git repositories but has yet to clone the repo locally (04:13)
+
+Gauri emphasized the cloning and setup of the repo as the first essential task.
+Sansh plans to complete cloning today and seek help via Slack if issues arise.
+Sansh’s onboarding progress sets the stage for task assignments and coding work.
+This foundational step is critical to ensure all team members work on the same codebase and track progress effectively.
+Manav Shah reviewed the backend repo focusing on user and property models and plans to add an appointment model next week (04:38)
+
+Manav confirmed the project runs properly on his local machine.
+Adding the appointment model aligns with the project roadmap to expand backend features.
+Manav’s focus on backend modeling supports the core functionality for property and booking management.
+This prepares the team to handle more complex interactions between users and properties soon.
+Sharon Xiang is familiarizing herself with both backend and frontend code and reviewing flow diagrams (05:15)
+
+Sharon has not cloned the repo yet but is gaining critical understanding of system flow.
+This knowledge will help her contribute effectively once coding tasks begin.
+Early exposure to design diagrams helps reduce onboarding time later.
+Project Workflow and Task Management via JIRA
+The team agreed on a structured task management process using JIRA to improve clarity, accountability, and progress tracking.
+
+Gauri Karkhile outlined a detailed JIRA workflow with tickets categorized as epics, stories, tasks, and bugs to manage the BT Boulder project efficiently (07:19)
+
+Major features like user authentication will be epics broken into user stories and coding/testing tasks.
+Each ticket includes description, assignee, priority, status, deadlines, and comments for updates.
+Team members must move tasks through “to do,” “in progress,” and “done” to maintain visibility.
+Weekly meetings will review JIRA progress to ensure alignment and avoid confusion.
+Gauri created initial JIRA tickets and encouraged team members to assign tasks to themselves or create new tickets as needed (09:10)
+
+Team members were instructed to regularly update their ticket statuses to reflect real-time progress.
+Bugs found during testing must be logged as JIRA tickets for timely resolution.
+This approach will maintain a clear work pipeline and improve issue tracking and resolution speed.
+Gauri will monitor JIRA boards to understand workloads and identify blockers early.
+Technical Decisions on User Verification
+Phone number verification was selected as the exclusive authentication method for its simplicity and user friendliness.
+
+The team decided to implement OTP verification solely via phone number, excluding email, to keep the process straightforward (10:11)
+Gauri explained that email verification adds complexity and reduces user friendliness.
+Phone number verification is more universal and accessible for all users.
+This decision streamlines the registration flow and reduces potential friction for new users.
+The choice aligns with the project’s goal of fast onboarding and easy access.
+Product Architecture and Feature Roadmap
+The BT Boulder platform is designed as a real estate system connecting property owners and agents with an AI chatbot for property suggestions.
+
+Gauri provided a clear overview of the system’s architecture involving Flutter frontend and Golang backend with user and agent workflows (05:32)
+
+User flow includes registration, login, browsing properties, AI chatbot interaction, and booking inquiries.
+Agent flow covers registration, property listing management, buyer chat, and booking tracking.
+Plans for a future admin panel will enable activity monitoring and listing approvals.
+This phased approach prioritizes core user-agent interactions before adding admin oversight.
+Manav’s planned appointment model addition fits into expanding backend capabilities to support booking and scheduling features (04:38)
+
+The roadmap clearly sequences backend model development to align with front-end user needs.
+This ensures backend readiness before full feature rollouts, reducing integration risks.
+Communication and Collaboration Norms
+The team emphasized the importance of ongoing communication and status updates to keep everyone aligned and responsive.
+
+Gauri instructed team members to keep Slack updates frequent and clear to track progress and quickly address issues (11:45)
+
+This real-time communication complements JIRA’s structured task tracking.
+It allows quick clarifications and fosters a collaborative problem-solving culture.
+Regular status sharing will help Gauri manage dependencies and resource allocation effectively.
+The weekly meetings combined with JIRA updates create a feedback loop ensuring transparency and accountability (07:19)
+
+This process aims to prevent task overlaps and identify blockers early.
+It supports a disciplined yet flexible work environment suitable for a distributed team.
