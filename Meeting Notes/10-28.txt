@@ -1,0 +1,12 @@
+Attendance:
+  - Manav Shah
+  - Calvin Schaller
+  - Sharon Xiang
+  - Sansh Goel
+  - Charlotte Hauke
+  - Christopher Ebuka Ojukwu
+
+  We gave a presentation on Betty Boulder overview. TA mentioned hw wanted more information on how we are going to train the AI agent and what data is going to be used.
+
+  To do:
+  - Wants to see the completed frontend in 2 weeks
