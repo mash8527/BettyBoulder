@@ -1,0 +1,19 @@
+Attendance:
+- Charlotte Hauke
+- Nathan Reed
+- Sharon Xiang
+- Nathan Reed
+- Manav Shah
+- Gauri Karkhile
+
+
+- Charlotte: Testing Document
+- Calvin: Jira set up and Frontend repo setup
+- Manav: Appointment model and handlers complete, next week going to work on CI/CD
+- Nathan: Pulled most recent backend database code and testing with Postman
+- Sharon: Cloned frontend and backend repos, fixed a few errors
+
+
+Most of flutter and backend are done. Now we are going to focus on AI part of the project.
+
+- Manav and Calvin volunteered to work on AI portion
