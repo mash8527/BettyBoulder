@@ -17,3 +17,8 @@ Attendance:
 Most of flutter and backend are done. Now we are going to focus on AI part of the project.
 
 - Manav and Calvin volunteered to work on AI portion
+
+This week:
+- Share weekly updates on Tuesday and Friday for what we have worked on in the standup channel
+- Our main focuses are working on the AI integration and the CI/CD pipeline
+- Add tickets to Jira for things we are working on
