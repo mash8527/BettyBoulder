@@ -1,0 +1,27 @@
+Attendance:
+- Manav Shah
+- Nathan Reed
+- Charlotte Hauke
+- Calvin Schaller
+- Sharon Xiang
+- Gauri Karkhile
+- Sansh Goel
+
+- Updates:
+- Charlotte: Begin testing the app and tracked test coverage in a test document. Created 5 different bug tickets.
+- Manav: Tested frontend and backend repos simultaneously. Researched using GitHub Actions and Digital Ocean together for CI/CD. Waiting on Digital Ocean credentials.
+- Calvin: Had exams so couldn't do a lot. Researched caching.
+- Nathan: Researched chatbot.
+- Sharon: Researched ways to integrate AI (OpenAI API). Looked at avatar options for Hey Gen.
+- Sansh: Didn't have a chance to work on the project due to exams.
+
+- Next week:
+- Calvin will work on frontend UI improvements
+- Manav will work on CI/CD
+- Charlotte will work on testing
+- Sharon will work on frontend UI improvements and research avatar
+- Nathan will work on finding a good AI API
+- Sansh will work on the bugs that Charlotte found and research LLMs
+
+
+- Research architecture to integrate AI
