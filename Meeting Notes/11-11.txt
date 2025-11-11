@@ -1,0 +1,12 @@
+Attendance:
+- Manav Shah
+- Nathan Reed
+- Calvin Schaller
+- Sharon Xiang
+- Charlotte Hauke
+- Sansh Goel
+- Christopher Ebuka Ojukwu
+
+- Frontend mostly done
+- Still researching AI models
+- Show demo for next meeting
