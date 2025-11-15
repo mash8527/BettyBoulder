@@ -1,0 +1,11 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Nathan Reed
+- Sansh Goel
+- Gauri Karkhile
+
+- Calvin worked on frontend UI enhancements. Changed some of the themes and worked on dark mode. Browsing or login pages are done.
+- Sansh is working on fixing the bugs that Charlotte found and researched AI models.
+- Nathan familiarized himself with frontend and did research for AI models.
+- Manav got Digital Ocean credentials and will work on CI/CD next week.
