@@ -1,16 +1,19 @@
+Attendance:
+- Manav Shah
+- Sharon Xiang
+- Charlotte Hauke
+- Gauri Karkhile
+
+Standup Summary – Betty Boulder Project
 Everyone must submit minimum 2 PRs per week.
 This week, I need code + output from every member — no exceptions.
 Next meeting, I will review everyone’s actual code, not discussions.
 Web scraping is facing blockers (firewalls, captchas, only 41 records scraped). We must find a solution for multi-page scraping urgently.
 LLM team must come with proof/results, not plans.
-CI/CD setup has not started — Manav, we need updates and scripts.
+CI/CD setup should be complete in this week.
 From now on, only code, PRs, and results matter — no vague updates.
-
 Everyone must follow the workflow:
 - Make flowchart
 - Write code
 - Test output
 - Compare & refine
-- Submit PR
-
-
