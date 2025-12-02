@@ -1,0 +1,11 @@
+Attendance:
+- Manav Shah
+- Calvin Schaller
+- Sharon Xiang
+- Sansh Goel
+- Charlotte Hauke
+- Christopher Ebuka Ojukwu
+
+- Calvin showed a frontend demo
+- Determine more direction on the LLM approach and model by next week
+- Plan on how to move forward based on the sponsor
