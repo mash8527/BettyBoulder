@@ -1,7 +1,15 @@
+Attendance:
+- Calvin Schaller
+- Sansh Goel
+- Sharon Xiang
+- Charlotte Hauke
+- Nathan Reed
 
 Gauri is travelling today, so Charlotte was asked to host the meeting. Gauri only wanted to know about any updates on CI/CD and web scraping.
 
 Manav could not attend today's meeting, so we have no updates on CI/CD, but it is in progress. 
+
+Nathan and Sansh found several APIs that could be used to improve access to real-estate data. 
 
 Data scraping issues are still being researched/worked on. 
 
