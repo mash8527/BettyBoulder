@@ -1,0 +1,18 @@
+
+Gauri is travelling today, so Charlotte was asked to host the meeting. Gauri only wanted to know about any updates on CI/CD and web scraping.
+
+Manav could not attend today's meeting, so we have no updates on CI/CD, but it is in progress. 
+
+Data scraping issues are still being researched/worked on. 
+
+Sharon found an open-source library on GitHub that was made to bypass Cloudflare Firewalls. Here is the link to that: https://github.com/sarperavci/CloudflareBypassForScraping
+
+Here are some other sites with information that could be useful, although some advertise their paid web scraping services:
+
+- https://www.zenrows.com/blog/web-scraping-without-getting-blocked#use-proxies
+- https://hacken.io/discover/how-to-bypass-waf-hackenproof-cheat-sheet/
+- https://dev.to/blogposting/data-scraping-how-to-collect-information-without-getting-blocked-930#:~:text=e)%20Use%20Headless%20Browsers%20or,the%20chances%20of%20being%20flagged.
+- https://soax.com/blog/bypass-waf-web-scraping
+- https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+- https://scrapfly.io/blog/posts/how-to-bypass-cloudflare-anti-scraping
+- https://scrapingant.com/blog/open-source-web-scraping-libraries-bypass-anti-bot
